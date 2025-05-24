@@ -35,7 +35,7 @@ const Header = async () => {
                 <DropdownMenuTrigger>
                         <Button >
                             <StarsIcon className="h-4 w-4" />
-                            <span className="hidden md:block">Industry Insights</span>
+                            <span className="hidden md:block"> Insights</span>
                         </Button>
                 </DropdownMenuTrigger>
                     <DropdownMenuContent> 
